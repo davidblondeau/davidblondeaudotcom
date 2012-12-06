@@ -1,0 +1,26 @@
+* { margin: 0; padding: 0; }
+
+html { 
+	background: url(../images/bg.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+#info-box {
+	width: 630px;
+	margin: 10% 10%;
+	padding: 20px 20px 10px;
+	background: silver;
+	-moz-box-shadow: 0 0 20px black;
+	-webkit-box-shadow: 0 0 20px black;
+	box-shadow: 0 0 20px black;
+	opacity: 0.85;
+	filter: alpha(opacity=85);
+}
+h1 { font: 68px kulturista-web-1, kulturista-web-2, "proxima-nova-1", "proxima-nova-2", Tahoma, Helvetica, Verdana, sans-serif; margin: 0 0 20px; }
+h3 { font-family: Arial, sans-serif; margin: 0 0 15px; }
+p { font: 14px/1.5 proxima-nova-1, proxima-nova-2, "proxima-nova-1", "proxima-nova-2", Tahoma, Helvetica, Verdana, sans-serif; margin: 0 0 10px 0; }
+#services { margin: 30px 0 0; }
+hr { margin: 30px 0 10px; }
